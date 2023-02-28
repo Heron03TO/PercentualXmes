@@ -1,0 +1,15 @@
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\bin\Debug\net7.0\PorcentagemXmes.exe
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\bin\Debug\net7.0\PorcentagemXmes.deps.json
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\bin\Debug\net7.0\PorcentagemXmes.runtimeconfig.json
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\bin\Debug\net7.0\PorcentagemXmes.dll
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\bin\Debug\net7.0\PorcentagemXmes.pdb
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.csproj.AssemblyReference.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.AssemblyInfoInputs.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.AssemblyInfo.cs
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.csproj.CoreCompileInputs.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.dll
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\refint\PorcentagemXmes.dll
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.pdb
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\PorcentagemXmes.genruntimeconfig.cache
+C:\Users\VAIO\Desktop\Projetos\CódigosDoProcessoSeletivoTarget\PorcentagemXmes\obj\Debug\net7.0\ref\PorcentagemXmes.dll
